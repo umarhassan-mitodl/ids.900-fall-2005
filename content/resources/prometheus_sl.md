@@ -5,6 +5,8 @@ description: This resource contains the response paper by Spencer L. Lewis on th
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/f0e71f5f3155d899cbefc62dd92f2e1e_prometheus_sl.pdf
 file_size: 20968
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource deals with two writing assignments- powerful dumb ide
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/d9dc77d397c68edd930341f67276cd20_allison.pdf
 file_size: 9561
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

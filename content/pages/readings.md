@@ -2,6 +2,8 @@
 content_type: page
 description: The readings section contains the various readings for the lecture topics
   prescribed for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -71,7 +73,7 @@ The Engineering Mindset
 Analysis of the Columbia Disaster
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "9850333a-6592-4fae-b671-2fdf5cd1c8f6" "The Columbia Accident Investigation Board Report" %}}
+[The Columbia Accident Investigation Board Report](http://www.nasa.gov/columbia/home/CAIB_Vol1.html)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,9 +103,9 @@ Methods for Forecasting; Predictions for the Future; How have they Actually Work
 {{< tdopen >}}
 _U.S. Office of Technology Assessment Reports_  
   
-"Ballistic Missile Defense Technologies." September 1985. ({{% resource_link "18dc46a6-bce6-4012-bf0f-5d7f3e094120" "PDF - 5.0 MB" %}})  
-"Computer-Based National Information Systems: Technology and Public Policy Issues." September 1981. ({{% resource_link "3018bfe5-c32c-4c5d-ac3e-a00dfeb58f75" "PDF - 2.7 MB" %}})  
-"Nuclear Power in an Age of Uncertainty." February 1984. ({{% resource_link "216eba5d-cf25-4bb8-8dc5-2a6e86e4ca43" "PDF - 9.0 MB" %}})  
+"Ballistic Missile Defense Technologies." September 1985. ([PDF - 5.0 MB](http://govinfo.library.unt.edu/ota/Ota_4/DATA/1985/8504.PDF))  
+"Computer-Based National Information Systems: Technology and Public Policy Issues." September 1981. ([PDF - 2.7 MB](http://govinfo.library.unt.edu/ota/Ota_5/DATA/1981/8109.PDF))  
+"Nuclear Power in an Age of Uncertainty." February 1984. ([PDF - 9.0 MB](http://govinfo.library.unt.edu/ota/Ota_4/DATA/1984/8421.PDF))  
   
 Cuhls, K., and T. Kuwahara. _Outlook for Japanese and German Future Technology: Comparing Japanese and German Technology Forecast Surveys_. Heidelberg, Germany: Physica-Verlag, 1994. ISBN: 9783790808001.
 {{< tdclose >}}

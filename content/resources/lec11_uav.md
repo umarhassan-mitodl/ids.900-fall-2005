@@ -6,6 +6,8 @@ description: This resource contains the definition, characteristics, classes, ap
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/e32c0083d2a1edea5ee48ece63ec6bae_lec11_uav.pdf
 file_size: 2316320
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

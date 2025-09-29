@@ -5,6 +5,8 @@ description: This resource contains information about the history, types, purpos
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/c7a3b607a9e1f1bf2f5fbc0fdac2325b_lec5_assess.pdf
 file_size: 627170
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

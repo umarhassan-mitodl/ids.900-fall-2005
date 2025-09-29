@@ -5,6 +5,8 @@ description: This resource contains information about the Columbia acident inves
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/126b86eb566da0f5929670ce390550cb_columbia_kd.pdf
 file_size: 16481
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

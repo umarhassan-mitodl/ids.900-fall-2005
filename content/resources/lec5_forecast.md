@@ -6,6 +6,8 @@ description: This resource contains information about the technological forecast
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/e766647c966611d983b08f15808709ad_lec5_forecast.pdf
 file_size: 360305
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains information about the final paper by Christi
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/77fb65409aaec868e653d628c7325033_final_cn.pdf
 file_size: 95175
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

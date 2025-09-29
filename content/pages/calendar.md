@@ -2,6 +2,8 @@
 content_type: page
 description: The calender section gives the information about the course schedule
   as well as the instructors for the respective topics.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

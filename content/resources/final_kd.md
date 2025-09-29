@@ -6,6 +6,8 @@ description: This resource contains information about the final paper by Kieran 
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/3fb51453e0fbd4768c46360f08832071_final_kd.pdf
 file_size: 213145
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

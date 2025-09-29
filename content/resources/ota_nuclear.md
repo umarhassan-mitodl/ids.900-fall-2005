@@ -8,6 +8,8 @@ description: This resource contains information about the seven sides to the nuc
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/fd4f1ea0f3265c104fd9a9a42dfa0a26_ota_nuclear.pdf
 file_size: 7736824
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

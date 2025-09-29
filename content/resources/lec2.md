@@ -6,6 +6,8 @@ description: This resource contains the key aspects of SAGE air defence system, 
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/50d4d56330e3943da83a34c61c690a16_lec2.pdf
 file_size: 122393
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
