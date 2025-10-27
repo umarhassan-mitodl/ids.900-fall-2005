@@ -6,8 +6,6 @@ description: This resource contains the information on the final paper of the co
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/29458f23b9a8e9ef67481470730c741a_final_am.pdf
 file_size: 74542
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

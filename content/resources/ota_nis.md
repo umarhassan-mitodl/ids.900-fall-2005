@@ -9,8 +9,6 @@ description: This resource contains information about the background and purpose
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/ebf6067109b1761ab6b1e147fcfb2cc9_ota_nis.pdf
 file_size: 1846668
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

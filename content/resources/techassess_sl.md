@@ -5,8 +5,6 @@ description: This resource contains the information about the Computer-Based Nat
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/48f4bc922e75bdd0c881de85d3f43d71_techassess_sl.pdf
 file_size: 12385
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

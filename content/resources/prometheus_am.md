@@ -5,8 +5,6 @@ description: This resource contians information about the book review and discus
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/3a14956a916df8e5b6d4b643e84217c3_prometheus_am.pdf
 file_size: 23758
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

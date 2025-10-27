@@ -5,8 +5,6 @@ description: This resource contains information about the technology assessment 
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/9c640b51b555351a035bd89b95b7ad30_techassess.pdf
 file_size: 16874
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

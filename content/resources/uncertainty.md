@@ -7,8 +7,6 @@ description: 'This resource contains a framework for understanding uncertainty a
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/00c7c1cf7b8560dcd10551551c348acc_uncertainty.pdf
 file_size: 342207
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

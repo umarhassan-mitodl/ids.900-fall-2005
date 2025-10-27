@@ -5,8 +5,6 @@ description: This resource contains the response paper by Kieran Downes on the b
 file: /courses/ids-900-integrating-doctoral-seminar-on-emerging-technologies-fall-2005/5527457bab615426ad21a0b021c017f5_prometheus_kd.pdf
 file_size: 13979
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
